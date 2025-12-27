@@ -1,4 +1,4 @@
 ## Welcome!
-OmniBlocks is a new IDE based on TurboWarp that supports multiple languages at once.
-## Meet the team!
+OmniBlocks is a project to develop a multi-language IDE.
+## Developers
 **in progress**
