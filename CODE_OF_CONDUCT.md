@@ -15,6 +15,7 @@ From children to the elderly, OmniBlocks is designed to be safe for people of al
 
 Even if you don't believe it, _**your actions follow you everywhere.**_  If you, for whatever reason, decide to post any content deemed inappropriate by the OmniBlocks team, you WILL be moderated accordingly. This includes, but is not limited to:
  - **Blocking you from the OmniBlocks organization.** This will prevent people from seeing any contributions or comments you make here. You can be blocked with or without any reason given, as long as the action was made reasonably.
+ - **Blocking you from the Wiki**. If the violation was in the wiki, we can block your account or IP range for any given amount of time or forever depending on the severity of your violation. 
  - **Reporting you to GitHub.** In more severe cases, we can report you directly to GitHub for wrongful actions, which will get your account banned.
 
 ### What content is not allowed?
