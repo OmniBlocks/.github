@@ -4,7 +4,4 @@ OmniBlocks is a freely licenced project to develop a multi-language IDE that als
 * @supervoidcoder (Founder)
 * @ampelc (Coder)
 * @someCatInTheWorld (Coder)
-* @kRxZykRxZy (Coder)
-* @TheBaton (Coder)
-* @someCatInTheWorld (Coder)
 * @GraisonsNewAccount (Coder)
