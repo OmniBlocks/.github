@@ -22,12 +22,12 @@ Even if you don't believe it, _**your actions follow you everywhere.**_  If you,
 
 We welcome people regardless of gender, ethnicity, race, or disability. Please do not judge people based on such superficial traits.
 To maintain peace in the OmniBlocks community, do not post:
-- **Hateful, abusive, or manipulative content.
+- Hateful, abusive, or manipulative content.
 - Spam, scams, and other forms of selfish self-promotion.
 - Harmful or Illegal content.
-- Extremist, biased, or conspiracist content.
+- Extremist or conspiracist content.
 - Explicit content, indecency, or innuendos.
-- Profanity and vulgar language are strongly discouraged. We understand that mild expletives may be used casually by some, including us, but they have no place in directed insults or harassment. The project maintainers retain final discretion on whether language is appropriate for our community. We cannot moderate or filter what you make yourself in the OmniBlocks IDE, and to be honest, we shouldn't do so to maintain a free and powerful IDE for everyone. This applies to anything related to us in the GitHub platform or any of our external official platforms (OmniBlocks Wiki, Forum Topic, etc.)**
+- Profanity and vulgar language are strongly discouraged. We understand that mild expletives may be used casually by some, including us, but they have no place in directed insults or harassment. The project maintainers retain final discretion on whether language is appropriate for our community. We cannot moderate or filter what you make yourself in the OmniBlocks IDE, and to be honest, we shouldn't do so to maintain a free and powerful IDE for everyone. This applies to anything related to us in the GitHub platform or any of our external official platforms (OmniBlocks Wiki, Forum Topic, etc.)
 - Redirecting, mentioning, or linking to unmoderated chat, wiki, or otherwise inappropriate content.
 
 Any violation of such rules will result in a block or ban.
@@ -39,4 +39,4 @@ If you witness or are subject to a violation of this Code of Conduct, please rep
 ### Have Fun
 While these rules can sound scary or intimidating, it is extremely easy to just... not do anything bad! So keep doing what you're doing and Code On!
 
-Last Updated: November 20th, 2025, 8:19 PM.
+Last Updated: August 7th, 2026 at 5:18 PM.
