@@ -8,7 +8,7 @@ In any OmniBlocks repository, issue, discussion, pull request, or otherwise part
 
 ### OmniBlocks is for All Ages 
 
-From children to the elderly, OmniBlocks is designed to be safe for people of all ages. This means that any content you post on the OmniBlocks projects is subject to rightful moderation based on its appropriateness to everyone. Before you post something or contribute something, think of the following question: **"Would this be appropriate for a 5 year old?"**. Of course, everyone's views on what is appropriate for specific people is different, but the standards remain the same.
+From children to the elderly, OmniBlocks is designed to be safe for people of all ages. This means that any content you post on the OmniBlocks projects is subject to rightful moderation based on its appropriateness to everyone. Before you post something or contribute something, think of the following question: **"Would this be appropriate for an 8 year old?"**. Of course, everyone's views on what is appropriate for specific people is different, but the standards remain the same.
 
 
 ### Responsibility for your Actions
@@ -34,9 +34,9 @@ Any violation of such rules will result in a block or ban.
 
 ## Reporting Violations
 
-If you witness or are subject to a violation of this Code of Conduct, please report it to the OmniBlocks team by contacting us privately at the [private security reporting tab.](https://github.com/OmniBlocks/.github/security) While an email is more professional, we currently don't have an email or any form of private communication available to the public.
+If you witness or are subject to a violation of this Code of Conduct, please report it to the OmniBlocks team by contacting us privately at support@omniblocks.org
 
 ### Have Fun
 While these rules can sound scary or intimidating, it is extremely easy to just... not do anything bad! So keep doing what you're doing and Code On!
 
-Last Updated: August 7th, 2026 at 5:18 PM.
+Last Updated: August 19th, 2026 at 6:36 AM EDT<!-- for me it is 11:36, this is to keep void happy-->.
