@@ -1,5 +1,5 @@
 ## Welcome!
-OmniBlocks is a freely licenced project to develop a multi-language IDE that also has support for block based programming!
+Boxy commands issue
 ## Members
 * [@supervoidcoder](https://github.com/supervoidcoder) (Founder)
 * [@ampelc](https://github.com/ampelc) (Coder)
